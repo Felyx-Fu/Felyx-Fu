@@ -1,55 +1,56 @@
-<div align="center">
-  <h1>Hi, I'm Felix</h1>
-  <p>Building AI-native tools, desktop apps, and automation workflows.</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
-  </p>
-</div>
+# Hi, I'm Felix 👋
 
-## About Me
+🛡️ **Cybersecurity student** | 🤖 **AI-native builder** | 🧰 **Automation enthusiast**
 
-- Cybersecurity student interested in practical AI products and developer tools.
-- Building end-to-end projects across desktop, mobile, backend, and automation workflows.
-- Exploring AI agents, personal knowledge tools, MCP integrations, and polished user experiences.
-- Contributing focused fixes to open-source projects while learning from production codebases.
+Building practical tools across desktop, mobile, backend, and automation workflows.
 
-## Featured Projects
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-### [GuardianStar](https://github.com/Felyx-Fu/GuardianStar)
+## Start Here
 
-A multi-device family safety platform with two Android apps and a FastAPI backend. It includes location reporting, safe-zone synchronization, SQLite persistence, and real-time alert delivery over WebSocket.
+- 🛡️ **[GuardianStar](https://github.com/Felyx-Fu/GuardianStar)** - multi-device family safety platform with Android apps and a FastAPI backend
+- 🪟 **[LumiDesktop](https://github.com/Felyx-Fu/LumiDesktop)** - Liquid Glass workspace concept for Windows
+- ✍️ **[XHS Tech Content Workflow](https://github.com/Felyx-Fu/XHS)** - desktop workspace for technical content production and pre-publish checks
 
-`Kotlin` `Jetpack Compose` `Python` `FastAPI` `SQLite` `WebSocket`
+## Current Projects
 
-### [LumiDesktop](https://github.com/Felyx-Fu/LumiDesktop)
+### Mobile, Backend & Security
 
-A Liquid Glass workspace concept for Windows, focused on creating a polished desktop experience.
+- 🛡️ **[GuardianStar](https://github.com/Felyx-Fu/GuardianStar)** - location reporting, safe zones, SQLite persistence, and real-time WebSocket alerts
 
-`TypeScript` `Desktop UI` `AI-assisted development`
+### Desktop & Automation
 
-### [XHS Tech Content Workflow](https://github.com/Felyx-Fu/XHS)
+- 🪟 **[LumiDesktop](https://github.com/Felyx-Fu/LumiDesktop)** - exploring polished desktop experiences on Windows
+- ✍️ **[XHS Tech Content Workflow](https://github.com/Felyx-Fu/XHS)** - generating visual assets and validating technical content packages
 
-A semi-automated desktop workspace for producing technical content packages, generating visual assets, and running pre-publish checks.
+### Open-Source Work
 
-`Python` `Desktop App` `Automation`
+- 🧠 **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** - contributed fixes for MCP write auditing, Gmail cleanup scoping, and text checkout consistency
+- 🌐 **[mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party)** - contributed a proxy-list layout fix after visibility toggles
 
-## Open-Source Contributions
+## GitHub Activity
 
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman): contributed focused fixes for MCP write auditing, Gmail cleanup scoping, and text checkout consistency.
-- [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party): contributed a proxy-list layout fix after visibility toggles.
+![GitHub Contribution Graph](https://ghchart.rshah.org/Felyx-Fu)
 
-## Currently Exploring
+## What I'm Doing
 
-- AI agents and local-first personal assistants
-- MCP-based tool integrations and automation
-- Knowledge workflows for code, documents, and research
-- Desktop experiences that make complex tools easier to use
+- **Building with AI** - turning ideas into working prototypes and useful tools
+- **Learning from real codebases** - contributing focused fixes to open-source projects
+- **Exploring agent workflows** - experimenting with MCP integrations, personal assistants, and knowledge tools
+- **Connecting security and product engineering** - applying a cybersecurity background to practical software
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Felyx-Fu)
 
 ---
 
-<div align="center">
-  <sub>Turning ideas into working software, one focused iteration at a time.</sub>
-</div>
+### Philosophy
+
+> Build small, ship often, and keep improving through real-world feedback.
