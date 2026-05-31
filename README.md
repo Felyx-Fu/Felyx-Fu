@@ -1,30 +1,55 @@
-# 👋 Hi there, I'm a beginner on GitHub!
+<div align="center">
+  <h1>Hi, I'm Felix</h1>
+  <p>Building AI-native tools, desktop apps, and automation workflows.</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+  </p>
+</div>
 
-Welcome to my GitHub profile!
+## About Me
 
-I'm currently **new to GitHub** and just starting my journey in building projects with **AI and technology**. I'm still learning and exploring many things, so this is a place where I document my progress and experiments.
+- Cybersecurity student interested in practical AI products and developer tools.
+- Building end-to-end projects across desktop, mobile, backend, and automation workflows.
+- Exploring AI agents, personal knowledge tools, MCP integrations, and polished user experiences.
+- Contributing focused fixes to open-source projects while learning from production codebases.
 
-## 🎓 Background
-- Major: **Cybersecurity**
-- Currently learning: **AI tools, development, and practical projects**
-- Goal: Combine **AI + cybersecurity** to build interesting and useful projects.
+## Featured Projects
 
-## 🚀 What I'm doing
-- Learning how to build projects using **AI**
-- Exploring **programming, automation, and security**
-- Practicing by creating small experimental projects
+### [GuardianStar](https://github.com/Felyx-Fu/GuardianStar)
 
-## 📚 About me
-I'm a **beginner developer**, so there will be many things to improve.  
-I hope to learn from the community and gradually improve my skills.
+A multi-device family safety platform with two Android apps and a FastAPI backend. It includes location reporting, safe-zone synchronization, SQLite persistence, and real-time alert delivery over WebSocket.
 
-## 🤝 Open to Advice
-Since I'm still new to this field, **any suggestions or guidance from experienced developers are very welcome**.  
-Feel free to share ideas, feedback, or improvements!
+`Kotlin` `Jetpack Compose` `Python` `FastAPI` `SQLite` `WebSocket`
 
-## 🌱 Current Status
-> Learning step by step, building projects with AI, and growing every day.
+### [LumiDesktop](https://github.com/Felyx-Fu/LumiDesktop)
+
+A Liquid Glass workspace concept for Windows, focused on creating a polished desktop experience.
+
+`TypeScript` `Desktop UI` `AI-assisted development`
+
+### [XHS Tech Content Workflow](https://github.com/Felyx-Fu/XHS)
+
+A semi-automated desktop workspace for producing technical content packages, generating visual assets, and running pre-publish checks.
+
+`Python` `Desktop App` `Automation`
+
+## Open-Source Contributions
+
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman): contributed focused fixes for MCP write auditing, Gmail cleanup scoping, and text checkout consistency.
+- [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party): contributed a proxy-list layout fix after visibility toggles.
+
+## Currently Exploring
+
+- AI agents and local-first personal assistants
+- MCP-based tool integrations and automation
+- Knowledge workflows for code, documents, and research
+- Desktop experiences that make complex tools easier to use
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+  <sub>Turning ideas into working software, one focused iteration at a time.</sub>
+</div>
