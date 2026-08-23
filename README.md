@@ -2,7 +2,7 @@
 
 # Felix / Felyx
 
-**Cybersecurity Student · Desktop Software Builder · Open Source**
+**Desktop Software Builder · Open Source**
 
 Building practical software around desktop systems, networking, and developer tools.
 
@@ -10,7 +10,7 @@ Building practical software around desktop systems, networking, and developer to
 
 ## About
 
-I'm a cybersecurity student who learns by building real software.
+I learn by building real software.
 
 My current focus is Windows desktop development, networking, system integration, and AI-assisted engineering. I care more about making one project genuinely usable than filling my profile with unfinished demos.
 
@@ -56,7 +56,7 @@ MioProxy is a Windows desktop client for managing a Mihomo-powered proxy runtime
 
 - Shipping and refining **MioProxy**
 - Learning deeper Windows desktop and systems engineering
-- Connecting cybersecurity knowledge with practical software development
+- Exploring networking and system integration
 - Using AI as an engineering tool while learning from real codebases
 
 ## GitHub Activity
