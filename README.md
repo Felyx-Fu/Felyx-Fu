@@ -1,14 +1,24 @@
 <div align="center">
 
-# Felix / Felyx
+# Hi, I'm Felyx 👋
 
-**Desktop Software Builder · Open Source**
+**Student Developer · Open Source Enthusiast**
 
-Building practical desktop software and developer tools.
+I enjoy building things, learning how software works, and contributing to open source.
 
-`Rust · TypeScript · Python · Tauri`
+`Open Source · Programming · AI · Desktop Apps · Developer Tools`
 
 </div>
+
+---
+
+## About Me
+
+- 🌱 Learning through building real projects and contributing to open source
+- 💻 Interested in programming, software development, and developer tools
+- 🤖 Curious about AI and how it can improve the way we build software
+- 🖥️ Enjoy creating desktop applications and practical tools
+- 🔧 Currently working with `Rust`, `TypeScript`, `Python`, and `Tauri`
 
 ---
 
