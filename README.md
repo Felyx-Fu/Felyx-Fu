@@ -2,13 +2,16 @@
 
 # Hi, I'm Felyx 👋
 
-**Computer Science Student · Open Source Enthusiast · Curious Builder**
+**Computer Science Student · Open Source Learner · AI Explorer**
 
-Interested in **AI, open source, programming, and computers in general**.
+I like learning broadly, experimenting with technology, and turning ideas into things that actually work.
 
-I learn broadly, build things that interest me, and use projects to turn curiosity into real experience.
+**Still learning. Still exploring. Still building.**
 
-`AI · Open Source · Programming · Desktop Apps · Developer Tools`
+![AI](https://img.shields.io/badge/AI-Interested-6f42c1)
+![Open Source](https://img.shields.io/badge/Open%20Source-Learning-3da639?logo=opensourceinitiative&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-Learning-blue)
+![Minecraft](https://img.shields.io/badge/Minecraft-Favorite%20Game-62b47a?logo=minecraft&logoColor=white)
 
 </div>
 
@@ -16,39 +19,57 @@ I learn broadly, build things that interest me, and use projects to turn curiosi
 
 ## About Me
 
-I'm a computer science student who likes exploring a little bit of everything.
+I'm a computer science student who tends to learn a little bit of everything.
 
-My interests are not limited to one specific field. I enjoy learning both things related to my major and topics outside it — from programming and software development to AI, open source, desktop applications, and whatever technology catches my attention next.
+My interests are not limited to one field. I explore programming, AI, open source, software development, computer systems, and whatever technology catches my attention next.
 
-- 🤖 **AI** — one of my biggest interests; I often use AI to understand unfamiliar code, break down problems, and turn ideas into working projects
-- 🌍 **Open Source** — I enjoy learning from public projects, contributing where I can, and becoming a better contributor over time
-- 💻 **Programming** — still building my fundamentals and learning through practice
-- 🧭 **Broad exploration** — I tend to learn across different areas of computing instead of staying inside a single track
-- 🛠️ **Building things** — I learn best when I can turn an idea into something that actually works
+- 🤖 **AI** — one of my biggest interests and an important tool in how I learn and build
+- 🌍 **Open Source** — I enjoy reading public projects, learning how real software is built, and contributing where I can
+- 💻 **Programming** — I'm still strengthening my fundamentals and trying to understand more of the code I write and use
+- 🧭 **Broad exploration** — I naturally jump across different areas of computing instead of staying on one narrow track
+- 🛠️ **Learning by building** — projects help me turn scattered knowledge into real experience
 
-> Still learning. Still exploring. Still building.
+I use AI heavily when solving problems and building software, but my goal is to gradually understand more, write more on my own, and make AI a tool rather than something I completely depend on.
 
 ---
 
-## What I'm Learning
+## Currently Learning 🌱
 
-I've studied or explored a number of languages and technologies, but I'm still developing depth in them rather than claiming mastery.
+I've studied or explored these languages and technologies. These are **things I'm learning**, not things I claim to have mastered.
 
-`Python` · `Java` · `C` · `C++` · `HTML / HTML5`
+<p>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-Learning-A8B9CC?logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C++-Learning-00599C?logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-Learning-E34F26?logo=html5&logoColor=white" alt="HTML5">
+</p>
 
-I have also spent time learning frontend development and working on practical software projects. My current goal is to strengthen the fundamentals behind the things I've already touched and gradually turn broad knowledge into deeper technical skill.
+I've also explored frontend development and worked with other technologies through real projects. Right now, I care more about building stronger fundamentals than collecting more languages.
+
+### My current goals
+
+- Strengthen my programming fundamentals
+- Get better at reading and understanding unfamiliar code
+- Learn Git and open-source collaboration properly
+- Contribute to projects I genuinely care about
+- Keep turning ideas into small, real, usable things
 
 ---
 
 ## Open Source & Projects
 
-I don't belong to a big organization or institution right now — I'm simply an independent learner who enjoys open source and wants to contribute more seriously over time.
+I don't belong to a big organization or institution right now. I'm an independent learner who enjoys open source and wants to become a better contributor over time.
 
-For me, GitHub is both a place to build projects and a record of what I'm learning along the way.
+For me, GitHub is not a trophy cabinet. It's a record of what I'm learning, building, breaking, fixing, and gradually understanding.
 
-### MioProxy
+### MioProxy — My First Serious Project
 
 #### [A modern Windows proxy client powered by Mihomo.](https://github.com/Felyx-Fu/MioProxy)
+
+MioProxy is the first project I've truly taken seriously — the first one where I kept building, debugging, improving, and trying to turn an idea into a real piece of software.
+
+I'm still figuring out where to take it next, but I'm proud of how far it has come and how much it has taught me.
 
 [![Latest Release](https://img.shields.io/github/v/release/Felyx-Fu/MioProxy?display_name=tag&sort=semver)](https://github.com/Felyx-Fu/MioProxy/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)](https://github.com/Felyx-Fu/MioProxy)
@@ -71,9 +92,7 @@ MioProxy is a focused Windows desktop client for managing a Mihomo-powered proxy
 
 ## Beyond Code 🎮
 
-I love **sandbox, strategy, management, and simulation games** — the kind of games where you can build systems, experiment, plan, and watch complicated worlds develop.
-
-Some of my favorites:
+I love **sandbox, strategy, management, and simulation games** — games where I can build systems, experiment, plan, and watch complicated worlds develop.
 
 - ⛏️ **Minecraft** — the first game I ever played, and still my favorite
 - 🌍 **Hearts of Iron IV**
