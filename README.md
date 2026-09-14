@@ -2,7 +2,7 @@
 
 # Hi, I'm Felyx 👋
 
-**Computer Science Student · Open Source Learner · AI Explorer**
+**Computer  Student · Open Source Learner · AI Explorer**
 
 I like learning broadly, experimenting with technology, and turning ideas into things that actually work.
 
